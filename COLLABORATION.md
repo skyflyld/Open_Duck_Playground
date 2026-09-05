@@ -79,7 +79,7 @@ Codex 出 Spec（含验收标准）→ Sky 审批 → Ariste 执行（偏离标�
 
 - jasoneip01-pixel：**被暂停**（申诉中）——本 fork 原载体，含 Issues #1-4
 - skyflyld：健康——本仓库现载体（迁移 2026-09-05，97 文件全量）
-- k286c7hg65-hub：Sky 新账号（养号中，未来主账号候选）
+- k286c7hg65-hub：Sky 新账号（养号中）= **jasoneip01-pixel 的替代主账号**（Sky 确认 2026-09-05）——产品线 + Codex 协作最终归它；skyflyld 退回备份/学术线
 
 ## 恢复路径
 
